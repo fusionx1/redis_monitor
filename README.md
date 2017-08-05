@@ -6,7 +6,7 @@ The toolkit has 2 types of reporting:
 * *memory* - dumps the contents of the Redis database locally and analyzes the memory distribution per key.
 
 ## Installation
-A valid docker install is required. 
+A valid docker install is required..
 
 Clone this repository, go to the clonned directory and run the commands below. The output should be displayed on screen.
 
